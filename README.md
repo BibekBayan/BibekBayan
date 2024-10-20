@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @BibekBayan I'm currently studying Computer Science Engineering 1st semester at Lovely Professional University (LPU).
   I'm passionate about technology, coding and building projects.
-  
-- 👀 I’m interested in video game development.
-- 
-- 🌱 I’m currently learning Python, Javascript and HTML in my 1st semester.
 
+- 👀 I’m interested in video game development.
+- 🌱 I’m currently learning Python, Javascript and HTML in my 1st semester.
 - ⚡ Fun fact: I enjoy playing videogames and love solving coding problems.
 
 <!---
